@@ -1,5 +1,3 @@
-!pip install numpy pandas matplotlib tensorflow scikit-learn
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
